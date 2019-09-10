@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+#gameTitle {
+    background-color: rgb(51, 122, 228);
+}
+
+
+body {
+    background: url(assets/images/what-the-hex.png);
+}
