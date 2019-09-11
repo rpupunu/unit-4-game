@@ -20,7 +20,7 @@
     background-color: rgb(234,98,37);
     margin-top: 10px;
     margin-bottom: 10px;
-    padding: 10px;
+    padding: 10px 10px 10px 15px;
 }
 
 #winLose {
@@ -28,13 +28,14 @@
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 10px;
-    padding: 10px;
+    padding: 10px 10px 10px 15px;
 }
 
 .button {
     margin-top: 5px;
     margin-bottom: 5px;
     border-style: solid;
+    background-color: #ffffff;
 }
 
 #scoreHeading {
